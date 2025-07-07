@@ -176,16 +176,13 @@ This repository contains a collection of my work across Machine Learning, Data S
 - [Digital Clock](https://github.com/Harsimran-Dalal/Digital-Clock)  
   Simple clock interface using Python/Arduino.
 
-- [Grain Classification](https://github.com/Harsimran-Dalal/Grain-Classification)  
-  Classifies types of grains using machine learning.
-
 ---
 
 ## 📌 How to Clone This Repository with Subtrees
 
 ```bash
-git clone https://github.com/Harsimran-Dalal/All-Projects.git
-cd All-Projects
+git clone https://github.com/Harsimran-Dalal/TSS-24.git
+cd TSS-24
 ```
 
 ## 🙋‍♂️ About Me
