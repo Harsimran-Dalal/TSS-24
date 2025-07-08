@@ -36,7 +36,7 @@ This repository contains a collection of my work across Machine Learning, Data S
 
 ## 🎥 OpenCV & Image Processing
 
-- [OpenCV Practice](https://github.com/Harsimran-Dalal/OpenCV_Practice)  
+- [OpenCV Practice](https://github.com/Harsimran-Dalal/TSS-24/tree/main/OpenCV_Practice)  
   Practice notebooks for OpenCV operations.
 
 - [Image Preprocessing](https://github.com/Harsimran-Dalal/TSS-24/tree/main/Image-Preprocessing)  
@@ -67,17 +67,17 @@ This repository contains a collection of my work across Machine Learning, Data S
 - [Audio to Text](https://github.com/Harsimran-Dalal/TSS-24/tree/main/Audio-to-Text)  
   Converts speech/audio to text using SpeechRecognition.
 
-- [Image to Text to Audio](https://github.com/Harsimran-Dalal/Image-to-text-to-audio)  
+- [Image to Text to Audio](https://github.com/Harsimran-Dalal/TSS-24/tree/main/Image-to-text-to-audio)  
   Full pipeline from image OCR to text-to-speech.
 
 ---
 
 ## 📄 PDF Utilities
 
-- [PDF Splitter](https://github.com/Harsimran-Dalal/PDF-Splitter)  
+- [PDF Splitter](https://github.com/Harsimran-Dalal/TSS-24/tree/main/PDF-Splitter)  
   Split PDF files page-wise.
 
-- [PDF Merger](https://github.com/Harsimran-Dalal/PDF-Merger)  
+- [PDF Merger](https://github.com/Harsimran-Dalal/TSS-24/tree/main/PDF-Merger)  
   Merge multiple PDFs into one.
 
 ---
@@ -87,10 +87,10 @@ This repository contains a collection of my work across Machine Learning, Data S
 - [Advance Python](https://github.com/Harsimran-Dalal/TSS-24/tree/main/Advance-Python)  
   Advanced concepts of Python with exercises.
 
-- [Python Assignment](https://github.com/Harsimran-Dalal/Python-Assignment)  
+- [Python Assignment](https://github.com/Harsimran-Dalal/TSS-24/tree/main/Python-Assignment)  
   Basic to intermediate Python solutions.
 
-- [Learn Python](https://github.com/Harsimran-Dalal/Learn-Python)  
+- [Learn Python](https://github.com/Harsimran-Dalal/TSS-24/tree/main/Learn-Python)  
   Python fundamentals with examples.
 
 - [R Programming Assignment](https://github.com/Harsimran-Dalal/R-Programming-Assignment)  
@@ -145,16 +145,16 @@ This repository contains a collection of my work across Machine Learning, Data S
 
 ## 📋 Miscellaneous Mini Projects
 
-- [Marks Adding](https://github.com/Harsimran-Dalal/Marks-Adding)  
+- [Marks Adding](https://github.com/Harsimran-Dalal/TSS-24/tree/main/Marks-Adding)  
   Adds marks of students and stores in file.
 
 - [Github Readme](https://github.com/Harsimran-Dalal/TSS-24/tree/main/Github-Readme)  
   Sample GitHub profile `README.md`.
 
-- [Interview Puzzles](https://github.com/Harsimran-Dalal/Interview-Puzzles)  
+- [Interview Puzzles](https://github.com/Harsimran-Dalal/TSS-24/tree/main/Interview-Puzzles)  
   Contains tricky coding and logic problems.
 
-- [Linear Model](https://github.com/Harsimran-Dalal/Linear-Model)  
+- [Linear Model](https://github.com/Harsimran-Dalal/TSS-24/tree/main/Linear-Model)  
   Implementation of a simple linear regression model.
 
 ---
@@ -164,7 +164,7 @@ This repository contains a collection of my work across Machine Learning, Data S
 - [Fire Alarm](https://github.com/Harsimran-Dalal/TSS-24/tree/main/Fire-Alarm)  
   Arduino-based flame/smoke detection system.
 
-- [Multiple LED Blinking in Sequence](https://github.com/Harsimran-Dalal/Multiple-LED-Blinking-in-Sequence)  
+- [Multiple LED Blinking in Sequence](https://github.com/Harsimran-Dalal/TSS-24/tree/main/Multiple-LED-Blinking-in-Sequence)  
   Sequence blinking using Arduino.
 
 - [Single LED Blinking](https://github.com/Harsimran-Dalal/Single-LED-Blinking)  
