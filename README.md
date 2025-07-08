@@ -48,7 +48,7 @@ This repository contains a collection of my work across Machine Learning, Data S
 - [Convert 100 Images to Grey Scale](https://github.com/Harsimran-Dalal/TSS-24/tree/main/Convert-100-images-to-Grey-Scale)  
   Converts a folder of images into grayscale.
 
-- [Resize a Video using OpenCV](https://github.com/Harsimran-Dalal/Resize-a-video-using-OpenCV)  
+- [Resize a Video using OpenCV](https://github.com/Harsimran-Dalal/TSS-24/tree/main/Resize-a-video-using-OpenCV)  
   Resize frames of a video using OpenCV.
 
 - [Convert Colored Video to Grey Scale](https://github.com/Harsimran-Dalal/TSS-24/tree/main/Convert-Colored-Video-to-Grey-Scale)  
@@ -61,7 +61,7 @@ This repository contains a collection of my work across Machine Learning, Data S
 - [Image to Text](https://github.com/Harsimran-Dalal/TSS-24/tree/main/Image-To-Text)  
   OCR-based text extraction from images.
 
-- [Video to Audio](https://github.com/Harsimran-Dalal/Video-To-Audio)  
+- [Video to Audio](https://github.com/Harsimran-Dalal/TSS-24/tree/main/Video-To-Audio)  
   Convert video files to audio using Python.
 
 - [Audio to Text](https://github.com/Harsimran-Dalal/TSS-24/tree/main/Audio-to-Text)  
@@ -93,20 +93,20 @@ This repository contains a collection of my work across Machine Learning, Data S
 - [Learn Python](https://github.com/Harsimran-Dalal/TSS-24/tree/main/Learn-Python)  
   Python fundamentals with examples.
 
-- [R Programming Assignment](https://github.com/Harsimran-Dalal/R-Programming-Assignment)  
+- [R Programming Assignment](https://github.com/Harsimran-Dalal/TSS-24/tree/main/R-Programming-Assignment)  
   R programming assignment notebook.
 
-- [R Programming](https://github.com/Harsimran-Dalal/R-Programming)  
+- [R Programming](https://github.com/Harsimran-Dalal/TSS-24/tree/main/R-Programming)  
   Getting started with R basics.
 
-- [Text File Conversion](https://github.com/Harsimran-Dalal/Text-File-Conversion)  
+- [Text File Conversion](https://github.com/Harsimran-Dalal/TSS-24/tree/main/Text-File-Conversion)  
   Simple file operations using Python.
 
 ---
 
 ## 📈 Data Analysis & Visualization
 
-- [Python EDA](https://github.com/Harsimran-Dalal/PythonEDA)  
+- [Python EDA](https://github.com/Harsimran-Dalal/TSS-24/tree/main/PythonEDA)  
   Exploratory data analysis with Pandas & Matplotlib.
 
 - [Data Visualization using Seaborn](https://github.com/Harsimran-Dalal/TSS-24/tree/main/Data-Visualization-using-seaborn)  
@@ -119,7 +119,7 @@ This repository contains a collection of my work across Machine Learning, Data S
 
 ## 🔢 Math, Logic & Combinatorics
 
-- [Subset Selection Problem](https://github.com/Harsimran-Dalal/Subset-Selection-Problem)  
+- [Subset Selection Problem](https://github.com/Harsimran-Dalal/TSS-24/tree/main/Subset-Selection-Problem)  
   Random and itertools-based subset generation.
 
 - [Combo Finder](https://github.com/Harsimran-Dalal/TSS-24/tree/main/ComboFinder)  
@@ -128,7 +128,7 @@ This repository contains a collection of my work across Machine Learning, Data S
 - [Challenge Question 1](https://github.com/Harsimran-Dalal/TSS-24/tree/main/Challenge-Question-1)  
   Problem-solving and logic-based coding task.
 
-- [Topsis for MCDM](https://github.com/Harsimran-Dalal/Topsis-for-Multi-criteria-Decision-making-MCDM)  
+- [Topsis for MCDM](https://github.com/Harsimran-Dalal/TSS-24/tree/main/Topsis-for-Multi-criteria-Decision-making-MCDM)  
   Python implementation of the TOPSIS decision-making algorithm.
 
 ---
@@ -167,10 +167,10 @@ This repository contains a collection of my work across Machine Learning, Data S
 - [Multiple LED Blinking in Sequence](https://github.com/Harsimran-Dalal/TSS-24/tree/main/Multiple-LED-Blinking-in-Sequence)  
   Sequence blinking using Arduino.
 
-- [Single LED Blinking](https://github.com/Harsimran-Dalal/Single-LED-Blinking)  
+- [Single LED Blinking](https://github.com/Harsimran-Dalal/TSS-24/tree/main/Single-LED-Blinking)  
   Basic LED blink project.
 
-- [Traffic Light](https://github.com/Harsimran-Dalal/Traffic-Light)  
+- [Traffic Light](https://github.com/Harsimran-Dalal/TSS-24/tree/main/Traffic-Light)  
   Arduino simulation of a traffic signal.
 
 - [Digital Clock](https://github.com/Harsimran-Dalal/TSS-24/tree/main/Digital-Clock)  
