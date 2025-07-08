@@ -10,19 +10,19 @@ This repository contains a collection of my work across Machine Learning, Data S
 - [Predict Disease Risk in Individuals - TSS24](https://github.com/Harsimran-Dalal/Predict-Disease-risk-in-individuals-TSS24)  
   Uses various features to predict disease risk using classification models.
 
-- [Basic Regression - TSS24](https://github.com/Harsimran-Dalal/Basic-Regression-TSS24)  
+- [Basic Regression - TSS24](https://github.com/Harsimran-Dalal/TSS-24/tree/main/Basic-Regression-TSS24)  
   Simple regression model implementation using Python.
 
-- [Predict the Outcomes of Patients - TSS24](https://github.com/Harsimran-Dalal/Predict-the-outcomes-of-patients-with-the-disease-TSS24)  
+- [Predict the Outcomes of Patients - TSS24](https://github.com/Harsimran-Dalal/TSS-24/tree/main/Predict-the-outcomes-of-patients-with-the-disease-TSS24)  
   Predict outcomes for patients with given medical history.
 
-- [Binary Classification - TSS24](https://github.com/Harsimran-Dalal/Binary_Classification-TSS24)  
+- [Binary Classification - TSS24](https://github.com/Harsimran-Dalal/TSS-24/tree/main/Binary_Classification-TSS24)  
   A classification task using Scikit-learn.
 
-- [Black Friday Sales EDA](https://github.com/Harsimran-Dalal/Black-Friday-Sales-EDA)  
+- [Black Friday Sales EDA](https://github.com/Harsimran-Dalal/TSS-24/tree/main/Black-Friday-Sales-EDA)  
   Exploratory analysis on Black Friday dataset.
 
-- [Exploratory Data Analysis](https://github.com/Harsimran-Dalal/Exploratory-Data-Analysis)  
+- [Exploratory Data Analysis](https://github.com/Harsimran-Dalal/TSS-24/tree/main/Exploratory-Data-Analysis)  
   General EDA techniques using Python.
 
 ---
@@ -45,13 +45,13 @@ This repository contains a collection of my work across Machine Learning, Data S
 - [Resize 100 Images](https://github.com/Harsimran-Dalal/Resize-the-100-Images)  
   Script to resize bulk images using OpenCV.
 
-- [Convert 100 Images to Grey Scale](https://github.com/Harsimran-Dalal/Convert-100-images-to-Grey-Scale)  
+- [Convert 100 Images to Grey Scale](https://github.com/Harsimran-Dalal/TSS-24/tree/main/Convert-100-images-to-Grey-Scale)  
   Converts a folder of images into grayscale.
 
 - [Resize a Video using OpenCV](https://github.com/Harsimran-Dalal/Resize-a-video-using-OpenCV)  
   Resize frames of a video using OpenCV.
 
-- [Convert Colored Video to Grey Scale](https://github.com/Harsimran-Dalal/Convert-Colored-Video-to-Grey-Scale)  
+- [Convert Colored Video to Grey Scale](https://github.com/Harsimran-Dalal/TSS-24/tree/main/Convert-Colored-Video-to-Grey-Scale)  
   Greyscale conversion of videos frame by frame.
 
 ---
@@ -64,7 +64,7 @@ This repository contains a collection of my work across Machine Learning, Data S
 - [Video to Audio](https://github.com/Harsimran-Dalal/Video-To-Audio)  
   Convert video files to audio using Python.
 
-- [Audio to Text](https://github.com/Harsimran-Dalal/Audio-to-Text)  
+- [Audio to Text](https://github.com/Harsimran-Dalal/TSS-24/tree/main/Audio-to-Text)  
   Converts speech/audio to text using SpeechRecognition.
 
 - [Image to Text to Audio](https://github.com/Harsimran-Dalal/Image-to-text-to-audio)  
@@ -84,7 +84,7 @@ This repository contains a collection of my work across Machine Learning, Data S
 
 ## 💡 Python & R Programming Assignments
 
-- [Advance Python](https://github.com/Harsimran-Dalal/Advance-Python)  
+- [Advance Python](https://github.com/Harsimran-Dalal/TSS-24/tree/main/Advance-Python)  
   Advanced concepts of Python with exercises.
 
 - [Python Assignment](https://github.com/Harsimran-Dalal/Python-Assignment)  
@@ -109,7 +109,7 @@ This repository contains a collection of my work across Machine Learning, Data S
 - [Python EDA](https://github.com/Harsimran-Dalal/PythonEDA)  
   Exploratory data analysis with Pandas & Matplotlib.
 
-- [Data Visualization using Seaborn](https://github.com/Harsimran-Dalal/Data-Visualization-using-seaborn)  
+- [Data Visualization using Seaborn](https://github.com/Harsimran-Dalal/TSS-24/tree/main/Data-Visualization-using-seaborn)  
   Different plots and styling options with Seaborn.
 
 - [Working with Pandas](https://github.com/Harsimran-Dalal/Working-with-Pandas)  
@@ -122,10 +122,10 @@ This repository contains a collection of my work across Machine Learning, Data S
 - [Subset Selection Problem](https://github.com/Harsimran-Dalal/Subset-Selection-Problem)  
   Random and itertools-based subset generation.
 
-- [Combo Finder](https://github.com/Harsimran-Dalal/ComboFinder)  
+- [Combo Finder](https://github.com/Harsimran-Dalal/TSS-24/tree/main/ComboFinder)  
   Tool to find combinations of items for a target sum.
 
-- [Challenge Question 1](https://github.com/Harsimran-Dalal/Challenge-Question-1)  
+- [Challenge Question 1](https://github.com/Harsimran-Dalal/TSS-24/tree/main/Challenge-Question-1)  
   Problem-solving and logic-based coding task.
 
 - [Topsis for MCDM](https://github.com/Harsimran-Dalal/Topsis-for-Multi-criteria-Decision-making-MCDM)  
@@ -173,7 +173,7 @@ This repository contains a collection of my work across Machine Learning, Data S
 - [Traffic Light](https://github.com/Harsimran-Dalal/Traffic-Light)  
   Arduino simulation of a traffic signal.
 
-- [Digital Clock](https://github.com/Harsimran-Dalal/Digital-Clock)  
+- [Digital Clock](https://github.com/Harsimran-Dalal/TSS-24/tree/main/Digital-Clock)  
   Simple clock interface using Python/Arduino.
 
 ---
