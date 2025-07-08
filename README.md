@@ -39,7 +39,7 @@ This repository contains a collection of my work across Machine Learning, Data S
 - [OpenCV Practice](https://github.com/Harsimran-Dalal/OpenCV_Practice)  
   Practice notebooks for OpenCV operations.
 
-- [Image Preprocessing](https://github.com/Harsimran-Dalal/Image-Preprocessing)  
+- [Image Preprocessing](https://github.com/Harsimran-Dalal/TSS-24/tree/main/Image-Preprocessing)  
   Basic image transformations using OpenCV.
 
 - [Resize 100 Images](https://github.com/Harsimran-Dalal/Resize-the-100-Images)  
@@ -58,7 +58,7 @@ This repository contains a collection of my work across Machine Learning, Data S
 
 ## 🔊 Audio/Video & Text Conversion Tools
 
-- [Image to Text](https://github.com/Harsimran-Dalal/Image-To-Text)  
+- [Image to Text](https://github.com/Harsimran-Dalal/TSS-24/tree/main/Image-To-Text)  
   OCR-based text extraction from images.
 
 - [Video to Audio](https://github.com/Harsimran-Dalal/Video-To-Audio)  
@@ -148,7 +148,7 @@ This repository contains a collection of my work across Machine Learning, Data S
 - [Marks Adding](https://github.com/Harsimran-Dalal/Marks-Adding)  
   Adds marks of students and stores in file.
 
-- [Github Readme](https://github.com/Harsimran-Dalal/Github-Readme)  
+- [Github Readme](https://github.com/Harsimran-Dalal/TSS-24/tree/main/Github-Readme)  
   Sample GitHub profile `README.md`.
 
 - [Interview Puzzles](https://github.com/Harsimran-Dalal/Interview-Puzzles)  
@@ -161,7 +161,7 @@ This repository contains a collection of my work across Machine Learning, Data S
 
 ## 🔌 Embedded & Electronics (Arduino)
 
-- [Fire Alarm](https://github.com/Harsimran-Dalal/Fire-Alarm)  
+- [Fire Alarm](https://github.com/Harsimran-Dalal/TSS-24/tree/main/Fire-Alarm)  
   Arduino-based flame/smoke detection system.
 
 - [Multiple LED Blinking in Sequence](https://github.com/Harsimran-Dalal/Multiple-LED-Blinking-in-Sequence)  
