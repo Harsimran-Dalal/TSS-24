@@ -1,4 +1,4 @@
-# 🧠 TSS'24-Projects by Harsimran Singh Dalal
+# 🧠 Thapar Summer School'24-Projects
 
 Welcome to my **TSS'24-Projects** repository! 🚀  
 This repository contains a collection of my work across Machine Learning, Data Science, Python, OpenCV, Arduino, and more. Projects are organized using `git subtree` from multiple repositories for modularity and reusability.
