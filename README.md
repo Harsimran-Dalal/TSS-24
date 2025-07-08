@@ -42,7 +42,7 @@ This repository contains a collection of my work across Machine Learning, Data S
 - [Image Preprocessing](https://github.com/Harsimran-Dalal/TSS-24/tree/main/Image-Preprocessing)  
   Basic image transformations using OpenCV.
 
-- [Resize 100 Images](https://github.com/Harsimran-Dalal/Resize-the-100-Images)  
+- [Resize 100 Images](https://github.com/Harsimran-Dalal/TSS-24/tree/main/Resize-the-100-Images)  
   Script to resize bulk images using OpenCV.
 
 - [Convert 100 Images to Grey Scale](https://github.com/Harsimran-Dalal/TSS-24/tree/main/Convert-100-images-to-Grey-Scale)  
